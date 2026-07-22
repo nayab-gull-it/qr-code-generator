@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+.idea/
+__pycache__/
+*.pyc
+main.py
+qr_code_generator.py
+QR_Code_NayabGull.spec
